@@ -32,6 +32,8 @@ Yoroi is a light-wallet built by Emurgo, a founding partner of Cardano.
 
 Please see the official wallet [wallet page](https://ergoplatform.org/en/mobile_wallets/). 
 
+For an alternative on mobile there is [Aneta Wallet](https://play.google.com/store/apps/details?id=io.anetabtc.android).
+
 ## Desktop
 
 ### Satergo
